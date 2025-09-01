@@ -26,8 +26,8 @@ Welcome to my GitHub! I’m passionate about building simulations, analyzing dat
 ## 📫 Let’s Connect!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oliviacardillo/"><img src="https://img.shields.io/badge/-Olivia%20Cardillo-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:olivia.cardillo@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/olivia-cardillo/"><img src="https://img.shields.io/badge/-Olivia%20Cardillo-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:olivia.cardillo@mail.mcgill.ca"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
