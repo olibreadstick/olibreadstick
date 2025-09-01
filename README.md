@@ -10,8 +10,8 @@ Welcome to my GitHub! I’m passionate about building simulations, analyzing dat
 
 - **Programming & Data**: Python, SQL, Bash, C, Java  
 - **Machine Learning & RL**: PyTorch, Stable-Baselines3, MuJoCo, MyoSuite  
-- **Web & Visualization**: HTML/CSS, JavaScript, Tableau, Matplotlib  
-- **Other Tools**: Git, VS Code, Docker, LaTeX  
+- **Web & Visualization**: HTML/CSS, JavaScript, Matplotlib  
+- **Other Tools**: Git, VS Code
 
 ---
 
