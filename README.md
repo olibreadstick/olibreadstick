@@ -17,8 +17,6 @@ Welcome to my GitHub! I’m passionate about building simulations, analyzing dat
 
 ## 🌟 Featured Projects  
 
-🔹 [**MyoWheelchair Simulation**](https://github.com/olibreadstick/myosuite)
-
 🔹 [**MyoWheelchair Simulation**](https://github.com/olibreadstick/mujoco)
 *Developed a musculoskeletal human + wheelchair model in MuJoCo & MyoSuite for reinforcement learning research. Integrated custom reward functions and trajectory tracking for hand–wheel interactions.*   
 
