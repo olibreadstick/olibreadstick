@@ -19,7 +19,10 @@ Welcome to my GitHub! I’m passionate about building simulations, analyzing dat
 ## 🌟 Featured Projects  
 
 🔹 [**MyoWheelchair Simulation**](https://github.com/olibreadstick/myosuite)
-*Developed a musculoskeletal human + wheelchair model in MuJoCo & MyoSuite for reinforcement learning research. Integrated custom reward functions and trajectory tracking for hand–wheel interactions.*   
+
+*Developed a musculoskeletal human + wheelchair model in MuJoCo & MyoSuite for reinforcement learning research. 
+
+Integrated custom reward functions and trajectory tracking for hand–wheel interactions.*   
 
 
 🔹[**McGill Biomechanics Projects**](https://github.com/McGill-Biomechanics)  
@@ -36,6 +39,7 @@ Coordinating a multidisciplinary team to design, simulate, and test motion-contr
 🔹 Unity Roll-a-Ball Game
 
 Created an interactive Roll-a-Ball game in Unity showcasing game physics, object interaction, and player control systems.
+
 Implemented collectible logic, smooth motion controls, and real-time UI updates to demonstrate physics-based gameplay design.
 
 ---
