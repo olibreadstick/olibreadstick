@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Olivia Cardillo  
 
-🎯 **Software Engineering Third Year Student **  
+👩‍💻 Software Engineering (B.Eng.) – Third Year Student
+🎓 B.Sc. & M.Sc.A. in Physiotherapy
 
 Welcome to my GitHub! I’m passionate about building simulations, analyzing data, and creating impactful software projects that connect technology with real-world applications. My background blends **physiotherapy, biomechanics, and software engineering**, giving me a unique perspective on problem-solving and innovation.  
 
@@ -22,12 +23,17 @@ Welcome to my GitHub! I’m passionate about building simulations, analyzing dat
 
 
 🔹[**McGill Biomechanics Projects**](https://github.com/McGill-Biomechanics)  
+Tremor Suppression Exoskeleton Team Lead – McGill Biomechanics Team
+Leading development of a robotic exoskeleton designed to detect and reduce upper-limb tremors through biomechanical feedback and control algorithms.
+Coordinating a multidisciplinary team to design, simulate, and test motion-control systems
 *Led development of open-source biomechanics tools and simulations as part of the McGill Biomechanics Team.*  
 - Designed and integrated models of the human body and assistive devices, including an **arm exoskeleton to detect and suppress tremors**  
 - Built **Python and MATLAB pipelines** for motion capture and biomechanics data processing  
 - Coordinated a multidisciplinary team as **Head of Projects**, ensuring quality, reproducibility, and impact of shared repositories  
 
-
+🔹 Unity Roll-a-Ball Game
+Created an interactive Roll-a-Ball game in Unity showcasing game physics, object interaction, and player control systems.
+Implemented collectible logic, smooth motion controls, and real-time UI updates to demonstrate physics-based gameplay design.
 
 ---
 
