@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Olivia Cardillo  
 
 👩‍💻 Software Engineering (B.Eng.) – Third Year Student
+
 🎓 B.Sc. & M.Sc.A. in Physiotherapy
 
 Welcome to my GitHub! I’m passionate about building simulations, analyzing data, and creating impactful software projects that connect technology with real-world applications. My background blends **physiotherapy, biomechanics, and software engineering**, giving me a unique perspective on problem-solving and innovation.  
