@@ -38,15 +38,14 @@ Coordinating a multidisciplinary team to design, simulate, and test motion-contr
 
 🔹 [**Unity Roll-a-Ball Game**](https://github.com/olibreadstick/Roll_a_ball_game)
 
-Created an interactive Roll-a-Ball game in Unity showcasing game physics, object interaction, and player control systems.
-
-Implemented collectible logic, smooth motion controls, and real-time UI updates to demonstrate physics-based gameplay design.
+- Set up a full 3D scene in Unity: created a ground plane, added a player sphere, adjusted lighting and materials. 
+- Programmed player movement, implemented physics-based roll mechanics and collision detection with collectibles.
+- Designed UI updates and game flow logic to create a responsive, polished mini-game experience.
 
 🔹 [**Unity RoboClean Game**](https://github.com/olibreadstick/RoboClean_game)
 
-Developed a 3D Unity game where the player controls a robot vacuum navigating a living room environment to collect dirt.
-
-Implemented smooth player movement using Unity’s physics system and a custom movement script
+- Developed a robot-vacuum-themed scene where the player navigates a living room environment as a robot vacuum and collects dirt
+- Implemented movement scripting, interactive pickup logic, scene object interaction, and camera base setup.
 
 ---
 
