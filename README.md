@@ -34,6 +34,7 @@ Coordinating a multidisciplinary team to design, simulate, and test motion-contr
 - Coordinated a multidisciplinary team as **Head of Projects**, ensuring quality, reproducibility, and impact of shared repositories  
 
 🔹 Unity Roll-a-Ball Game
+
 Created an interactive Roll-a-Ball game in Unity showcasing game physics, object interaction, and player control systems.
 Implemented collectible logic, smooth motion controls, and real-time UI updates to demonstrate physics-based gameplay design.
 
