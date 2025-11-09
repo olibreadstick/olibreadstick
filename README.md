@@ -23,8 +23,10 @@ Welcome to my GitHub! I’m passionate about building simulations, analyzing dat
 
 
 🔹[**McGill Biomechanics Projects**](https://github.com/McGill-Biomechanics)  
-Tremor Suppression Exoskeleton Team Lead – McGill Biomechanics Team
+👩‍💻 Tremor Suppression Exoskeleton Team Lead – McGill Biomechanics Team
+
 Leading development of a robotic exoskeleton designed to detect and reduce upper-limb tremors through biomechanical feedback and control algorithms.
+
 Coordinating a multidisciplinary team to design, simulate, and test motion-control systems
 *Led development of open-source biomechanics tools and simulations as part of the McGill Biomechanics Team.*  
 - Designed and integrated models of the human body and assistive devices, including an **arm exoskeleton to detect and suppress tremors**  
