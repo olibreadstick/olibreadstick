@@ -55,14 +55,16 @@ A fast-paced action game built during McGameJam 2026 under 48-hour constraints.
 
 Contributed to gameplay mechanics, real-time interaction systems, and core game logic while collaborating in a rapid development environment.
 
-🦾 [**MyoWheelchair Simulation**](https://github.com/olibreadstick/myosuite)
+### 🦾 MyoWheelchair – Musculoskeletal RL Simulation
+🔗 Repository: https://github.com/olibreadstick/myosuite
 
 Developed a musculoskeletal human + wheelchair model in MuJoCo & MyoSuite for reinforcement learning research.
 
 Integrated custom reward functions and trajectory tracking for hand–wheel interactions.   
 
 
-🦿[**McGill Biomechanics Projects**](https://github.com/McGill-Biomechanics)  
+### 🦿 McGill Biomechanics Team – Tremor Suppression Exoskeleton
+🔗 Repository: https://github.com/McGill-Biomechanics
 Head of Projects - Tremor Suppression Exoskeleton – McGill Biomechanics Team
 
 Leading development of a robotic exoskeleton designed to detect and reduce upper-limb tremors through biomechanical feedback and control algorithms.
