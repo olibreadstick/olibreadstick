@@ -4,20 +4,56 @@
 
 🎓 B.Sc. & M.Sc.A. in Physiotherapy
 
-Welcome to my GitHub! I’m passionate about building simulations, analyzing data, and creating impactful software projects that connect technology with real-world applications. My background blends **physiotherapy, biomechanics, and software engineering**, giving me a unique perspective on problem-solving and innovation.  
+I build **AI-powered systems, biomechanical simulations, and human-centered software** that bridge engineering and real-world impact.
+
+My background in **physiotherapy, biomechanics, and software engineering** allows me to approach problems from both a computational and human perspective — designing systems that are technically robust and biologically informed.
+
+---
+
+🥇 **Hack McWics 2026 Winner** – Best Use of Gemini API  
+🎮 McGameJam 2026 Developer  
+🦾 Head of Projects – McGill Biomechanics Team  
+🤖 Reinforcement Learning & Musculoskeletal Simulation Research  
 
 ---
 
 ## 🛠️ Skills  
 
-- **Programming & Data**: Python, SQL, Bash, C, Java  
-- **Machine Learning & RL**: PyTorch, Stable-Baselines3, MuJoCo, MyoSuite  
-- **Web & Visualization**: HTML/CSS, JavaScript, Matplotlib  
-- **Other Tools**: Git, VS Code
+- **Programming & Data**: Python, Java, Typescript, C, SQL, Bash  
+- **AI, Machine Learning & RL**: PyTorch, Stable-Baselines3, MuJoCo, MyoSuite  
+- **Web & Frontend**: React, Typescript, HTML/CSS, JavaScript  
+- **Tools**: Git, VS Code, Unity
 
 ---
 
 ## 🌟 Featured Projects  
+
+### 🥇 UniLinks – AI-Powered Student Connection Platform  
+**Winner – Best Use of Gemini API (Hack McWics 2026)**  
+
+🔗 Repository: https://github.com/olibreadstick/UniLinks  
+
+UniLinks is an AI-powered web application designed to foster community, friendship, and academic collaboration among students.
+
+Built with **React + TypeScript** and integrated with the **Gemini API**, UniLinks features:
+
+- 🤝 Intelligent student matching based on shared interests & courses  
+- 🎯 Personalized AI-powered event and club recommendations  
+- 🧠 AI Social Coach for practicing networking and presentations  
+- 💬 LLM-powered conversation simulation and feedback  
+
+This project won **Best Use of Gemini API** at Hack McWics 2026.
+
+---
+
+### 🎮 Hell Hunt – McGameJam 2026  
+
+🔗 Play the game: https://moch727.itch.io/hell-hunt  
+🔗 Repository: https://github.com/Dynamo8m/McGameJam2026  
+
+A fast-paced action game built during McGameJam 2026 under 48-hour constraints.
+
+Contributed to gameplay mechanics, real-time interaction systems, and core game logic while collaborating in a rapid development environment.
 
 🔹 [**MyoWheelchair Simulation**](https://github.com/olibreadstick/myosuite)
 
@@ -36,16 +72,15 @@ Coordinating a multidisciplinary team to design, simulate, and test motion-contr
 - Built **Python and MATLAB pipelines** for motion capture and biomechanics data processing  
 - Coordinated a multidisciplinary team as **Head of Projects**, ensuring quality, reproducibility, and impact of shared repositories  
 
-🔹 [**Unity Roll-a-Ball Game**](https://github.com/olibreadstick/Roll_a_ball_game)
+---
 
-- Set up a full 3D scene in Unity: created a ground plane, added a player sphere, adjusted lighting and materials. 
-- Programmed player movement, implemented physics-based roll mechanics and collision detection with collectibles.
-- Designed UI updates and game flow logic to create a responsive, polished mini-game experience.
+## Technical Interests  
 
-🔹 [**Unity RoboClean Game**](https://github.com/olibreadstick/RoboClean_game)
-
-- Developed a robot-vacuum-themed scene where the player navigates a living room environment as a robot vacuum and collects dirt
-- Implemented movement scripting, interactive pickup logic, scene object interaction, and camera base setup.
+- Artificial Intelligence & Reinforcement Learning  
+- Biomechanics & Human–Machine Systems  
+- Control Systems & Robotics  
+- Full-Stack Web Development  
+- Algorithm Design & Competitive Programming  
 
 ---
 
