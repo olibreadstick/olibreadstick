@@ -1,9 +1,9 @@
 # Olivia Cardillo  
 Software Engineer exploring reinforcement learning, human-machine systems, and AI-driven simulations.
 
-Software Engineering (B.Eng.) – Third Year Student
+👩‍💻 Software Engineering (B.Eng.) – Third Year Student
 
-B.Sc. & M.Sc.A. in Physiotherapy
+🎓 B.Sc. & M.Sc.A. in Physiotherapy
 
 I build **AI-powered systems, biomechanical simulations, and human-centered software** that bridge engineering and real-world impact.
 
@@ -11,10 +11,10 @@ My background in **physiotherapy, biomechanics, and software engineering** allow
 
 ---
 
-**Hack McWics 2026 Winner** – Best Use of Gemini API  
-McGameJam 2026 Developer  
-Head of Projects – McGill Biomechanics Team  
-Reinforcement Learning & Musculoskeletal Simulation Research  
+🥇 **Hack McWics 2026 Winner** – Best Use of Gemini API  
+🎮 McGameJam 2026 Developer  
+🦾 Head of Projects – McGill Biomechanics Team  
+🤖 Reinforcement Learning & Musculoskeletal Simulation Research  
 
 ---
 
@@ -29,7 +29,7 @@ Reinforcement Learning & Musculoskeletal Simulation Research
 
 ## Featured Projects  
 
-### UniLinks – AI-Powered Student Connection Platform  
+### 🥇 UniLinks – AI-Powered Student Connection Platform  
 **Winner – Best Use of Gemini API (Hack McWics 2026)**  
 
 🔗 Repository: https://github.com/olibreadstick/UniLinks  
@@ -47,7 +47,7 @@ This project won **Best Use of Gemini API** at Hack McWics 2026.
 
 ---
 
-### Hell Hunt – McGameJam 2026  
+### 🎮 Hell Hunt – McGameJam 2026  
 
 🔗 Play the game: https://moch727.itch.io/hell-hunt  
 🔗 Repository: https://github.com/Dynamo8m/McGameJam2026  
@@ -56,14 +56,14 @@ A fast-paced action game built during McGameJam 2026 under 48-hour constraints.
 
 Contributed to gameplay mechanics, real-time interaction systems, and core game logic while collaborating in a rapid development environment.
 
-[**MyoWheelchair Simulation**](https://github.com/olibreadstick/myosuite)
+🦾 [**MyoWheelchair Simulation**](https://github.com/olibreadstick/myosuite)
 
 *Developed a musculoskeletal human + wheelchair model in MuJoCo & MyoSuite for reinforcement learning research.* 
 
 *Integrated custom reward functions and trajectory tracking for hand–wheel interactions.*   
 
 
-[**McGill Biomechanics Projects**](https://github.com/McGill-Biomechanics)  
+🦿[**McGill Biomechanics Projects**](https://github.com/McGill-Biomechanics)  
 Head of Projects - Tremor Suppression Exoskeleton – McGill Biomechanics Team
 
 Leading development of a robotic exoskeleton designed to detect and reduce upper-limb tremors through biomechanical feedback and control algorithms.
