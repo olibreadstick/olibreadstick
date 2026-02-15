@@ -1,5 +1,4 @@
 # Olivia Cardillo  
-Software Engineer exploring reinforcement learning, human-machine systems, and AI-driven simulations.
 
 👩‍💻 Software Engineering (B.Eng.) – Third Year Student
 
