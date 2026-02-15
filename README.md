@@ -17,7 +17,7 @@ My background in **physiotherapy, biomechanics, and software engineering** allow
 
 ---
 
-## 🛠️ Skills  
+## 🛠️Skills  
 
 - **Programming & Data**: Python, Java, Typescript, C, SQL, Bash  
 - **AI, Machine Learning & RL**: PyTorch, Stable-Baselines3, MuJoCo, MyoSuite  
@@ -35,12 +35,12 @@ My background in **physiotherapy, biomechanics, and software engineering** allow
 
 UniLinks is an AI-powered web application designed to foster community, friendship, and academic collaboration among students.
 
-Built with **React + TypeScript** and integrated with the **Gemini API**, UniLinks features:
+Built under 24 hours with **React + TypeScript** and integrated with **Gemini API**, UniLinks features:
 
-- 🤝 Intelligent student matching based on shared interests & courses  
-- 🎯 Personalized AI-powered event and club recommendations  
-- 🧠 AI Social Coach for practicing networking and presentations  
-- 💬 LLM-powered conversation simulation and feedback  
+- Intelligent student matching based on shared interests & courses  
+- Personalized AI-powered event and club recommendations  
+- AI Social Coach for practicing networking and presentations  
+- LLM-powered conversation simulation and feedback  
 
 This project won **Best Use of Gemini API** at Hack McWics 2026.
 
