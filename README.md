@@ -6,7 +6,7 @@
 
 I build **AI-powered systems, biomechanical simulations, and human-centered software** that bridge engineering and real-world impact.
 
-My background in **physiotherapy, biomechanics, and software engineering** allows me to approach problems from both a computational and human perspective — designing systems that are technically robust and biologically informed.
+My background in **physiotherapy, biomechanics, and software engineering** allows me to approach problems from both a computational and human perspective, designing systems that are technically robust and biologically informed.
 
 ---
 
