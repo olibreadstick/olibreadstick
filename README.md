@@ -74,6 +74,26 @@ The system was evaluated across multiple GPT and Gemini models and compared with
 **Technologies:** React, JavaScript, n8n, LLMs, OpenAI, Google Calendar, TomTom APIs, REST APIs, JSON
 
 ---
+### 🧠 Behaviour Change Agent – AI-Assisted Behaviour Change Support
+
+A theory-informed AI system designed to provide structured, personalized, and self-compassionate support for behaviour change.
+
+Built with a **React frontend and n8n agentic workflow**, the system uses persistent session state and structured LLM outputs to guide users through evidence-informed behaviour-change techniques.
+
+Key features include:
+
+* Goal Setting with Learning, Performance, and Outcome goals
+* Action Planning and Problem Solving
+* If/then implementation planning
+* Self-Monitoring
+* Persistent guide and session state
+* Quick-reply conversational interface
+* Disability-inclusive and self-compassionate adaptation
+* Structured comparison with general-purpose conversational AI
+
+**Technologies:** React, n8n, OpenAI, LLMs, REST APIs, JSON, Vercel
+
+---
 
 ### 🎮 Hell Hunt – McGameJam 2026
 
