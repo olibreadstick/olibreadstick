@@ -76,20 +76,23 @@ The system was evaluated across multiple GPT and Gemini models and compared with
 ---
 ### 🧠 Behaviour Change Agent – AI-Assisted Behaviour Change Support
 
+🔗 Repository: https://github.com/olibreadstick/behaviour-change-agent  
+🌐 Live Demo: https://behaviour-change-agent.vercel.app/
+
 A theory-informed AI system designed to provide structured, personalized, and self-compassionate support for behaviour change.
 
 Built with a **React frontend and n8n agentic workflow**, the system uses persistent session state and structured LLM outputs to guide users through evidence-informed behaviour-change techniques.
 
 Key features include:
 
-* Goal Setting with Learning, Performance, and Outcome goals
-* Action Planning and Problem Solving
-* If/then implementation planning
-* Self-Monitoring
-* Persistent guide and session state
-* Quick-reply conversational interface
-* Disability-inclusive and self-compassionate adaptation
-* Structured comparison with general-purpose conversational AI
+- Goal Setting with Learning, Performance, and Outcome goals
+- Action Planning and Problem Solving
+- If/then implementation planning
+- Self-Monitoring
+- Persistent guide and session state
+- Quick-reply conversational interface
+- Disability-inclusive and self-compassionate adaptation
+- Structured behaviour-change support rather than unrestricted coaching
 
 **Technologies:** React, n8n, OpenAI, LLMs, REST APIs, JSON, Vercel
 
