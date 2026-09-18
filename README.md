@@ -1,6 +1,6 @@
 # Olivia Cardillo
 
-👩‍💻 Software Engineering (B.Eng.) – Third Year Student
+👩‍💻 Software Engineering (B.Eng.) – Final Year Student
 
 🎓 B.Sc. & M.Sc.A. in Physiotherapy
 
