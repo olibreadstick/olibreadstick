@@ -1,19 +1,20 @@
 # Olivia Cardillo
 
-👩‍💻 Software Engineering (B.Eng.) – Final Year Student
+Software Engineering Student at McGill University | Applied AI & Full-Stack Development
 
-🎓 B.Sc. & M.Sc.A. in Physiotherapy
+I'm a Final Year Software Engineering student at McGill University with a Master's degree in Physiotherapy and a passion for developing intelligent software systems that solve real-world problems.
 
-I build **AI-powered systems, biomechanical simulations, and human-centered software** that bridge engineering and real-world impact.
+My work spans AI-powered applications, LLM integration, full-stack development and reinforcement learning.
 
-My background in **physiotherapy, biomechanics, and software engineering** allows me to approach problems from both a computational and human perspective, designing systems that are technically robust and biologically informed.
+I particularly enjoy building end-to-end solutions, from integrating AI models and APIs to developing functional, user-centered applications.
 
----
+### Highlights
 
-🥇 **Hack McWics 2026 Winner** – Best Use of Gemini API
-🎮 McGameJam 2026 Developer
-🦾 Head of Projects – McGill Biomechanics Team
-🤖 Reinforcement Learning & Musculoskeletal Simulation Research
+- Hack McWICS 2026 — Best Use of Gemini API
+- Developing AI-powered applications and agentic workflows
+- Reinforcement learning and musculoskeletal simulation
+- Full-stack development with React, TypeScript, Python, and REST APIs
+- B.Eng. Software Engineering, McGill University — Expected October 2027
 
 ---
 
@@ -35,16 +36,23 @@ My background in **physiotherapy, biomechanics, and software engineering** allow
 
 🔗 Repository: https://github.com/olibreadstick/UniLinks
 
-UniLinks is an AI-powered web application designed to foster community, friendship, and academic collaboration among students.
+🏆 UniLinks — Hack McWICS 2026
 
-Built under 24 hours with **React + TypeScript** and integrated with **Gemini API**, UniLinks features:
+Best Use of Gemini API Award
 
-* Intelligent student matching based on shared interests & courses
-* Personalized AI-powered event and club recommendations
-* AI Social Coach for practicing networking and presentations
-* LLM-powered conversation simulation and feedback
+An AI-powered student networking platform developed during Hack McWICS 2026 using React, TypeScript, and Google's Gemini API.
 
-This project won **Best Use of Gemini API** at Hack McWics 2026.
+The application helps students discover campus opportunities, connect with peers, and improve their communication skills through AI-powered recommendations and interactive social coaching.
+
+**Technical Highlights & Contributions:**
+
+- Contributed to integrating the Gemini API to support personalized recommendations and AI-powered social coaching.
+
+- Worked with context-aware prompt engineering to generate relevant, scenario-specific AI responses.
+
+- Helped develop AI-powered interactions alongside frontend components using React and TypeScript.
+
+- Contributed to building an intuitive user experience that connects AI-generated outputs with interactive application features.
 
 ---
 
